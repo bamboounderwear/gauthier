@@ -1,0 +1,13 @@
+{
+    "name": "stackblitz-html-preview",
+    "version": "1.0.0",
+    "description": "Simple StackBlitz project for HTML preview",
+    "scripts": {
+      "start": "live-server --port=3000 --host=0.0.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
+  
